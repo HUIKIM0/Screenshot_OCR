@@ -1,0 +1,10 @@
+D:\dev\C#Work\Screenshot_OCR\Screenshot_OCR\bin\Debug\Screenshot_OCR.exe.config
+D:\dev\C#Work\Screenshot_OCR\Screenshot_OCR\bin\Debug\Screenshot_OCR.exe
+D:\dev\C#Work\Screenshot_OCR\Screenshot_OCR\bin\Debug\Screenshot_OCR.pdb
+D:\dev\C#Work\Screenshot_OCR\Screenshot_OCR\obj\Debug\Screenshot_OCR.csproj.AssemblyReference.cache
+D:\dev\C#Work\Screenshot_OCR\Screenshot_OCR\obj\Debug\Screenshot_OCR.Form1.resources
+D:\dev\C#Work\Screenshot_OCR\Screenshot_OCR\obj\Debug\Screenshot_OCR.Properties.Resources.resources
+D:\dev\C#Work\Screenshot_OCR\Screenshot_OCR\obj\Debug\Screenshot_OCR.csproj.GenerateResource.cache
+D:\dev\C#Work\Screenshot_OCR\Screenshot_OCR\obj\Debug\Screenshot_OCR.csproj.CoreCompileInputs.cache
+D:\dev\C#Work\Screenshot_OCR\Screenshot_OCR\obj\Debug\Screenshot_OCR.exe
+D:\dev\C#Work\Screenshot_OCR\Screenshot_OCR\obj\Debug\Screenshot_OCR.pdb
