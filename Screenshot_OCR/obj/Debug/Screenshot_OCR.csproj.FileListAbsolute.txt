@@ -8,3 +8,4 @@ D:\dev\C#Work\Screenshot_OCR\Screenshot_OCR\obj\Debug\Screenshot_OCR.csproj.Gene
 D:\dev\C#Work\Screenshot_OCR\Screenshot_OCR\obj\Debug\Screenshot_OCR.csproj.CoreCompileInputs.cache
 D:\dev\C#Work\Screenshot_OCR\Screenshot_OCR\obj\Debug\Screenshot_OCR.exe
 D:\dev\C#Work\Screenshot_OCR\Screenshot_OCR\obj\Debug\Screenshot_OCR.pdb
+D:\dev\C#Work\Screenshot_OCR\Screenshot_OCR\obj\Debug\Screenshot_OCR.frmSelecter.resources
