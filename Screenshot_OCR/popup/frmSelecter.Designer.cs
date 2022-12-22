@@ -38,6 +38,7 @@ namespace Screenshot_OCR
             this.ClientSize = new System.Drawing.Size(686, 404);
             this.Name = "frmSelecter";
             this.Text = "frmSelecter";
+            this.DoubleClick += new System.EventHandler(this.frmSelecter_DoubleClick);
             this.ResumeLayout(false);
 
         }

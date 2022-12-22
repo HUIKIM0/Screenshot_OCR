@@ -12,6 +12,7 @@ namespace Screenshot_OCR
 {
     public partial class frmSelecter : Form
     {
+
         #region 폼 사이즈 변경 Code
         private static readonly Color PrimaryTransparencyKey = Color.White;
         private static readonly Color SecondaryTransparencyKey = Color.Black;
@@ -147,7 +148,7 @@ namespace Screenshot_OCR
         #endregion
 
 
-        #region Form Size 전송을 위한  Code
+        #region Form Size 전송을 위한 Code
         public delegate void delScreenInfoSender(object oSender, Dictionary<string, int> dInfo);
         public event delScreenInfoSender eScreenInfoSander;
 
@@ -157,12 +158,8 @@ namespace Screenshot_OCR
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
-        private void frmSelector_DoubleClick(object sender, EventArgs e)
+        private void frmSelecter_DoubleClick(object sender, EventArgs e)
         {
-            //int x = this.Location.X;
-            //int y = this.Location.Y;
-            //int w = this.Width;
-            //int h = this.Height;
 
             eScreenInfoSander(this, fCaptureInfo());
             this.Hide();
@@ -170,7 +167,8 @@ namespace Screenshot_OCR
 
 
         /// <summary>
-        /// Screen Size Convert Dictionary
+        /// 더블클릭해서 캡쳐 하면 그 캡쳐화면 Main의 PBox에 보여줄것임!
+        /// 캡쳐 화면크기 Dictionary
         /// </summary>
         /// <returns></returns>
         public Dictionary<string, int> fCaptureInfo()
@@ -182,8 +180,10 @@ namespace Screenshot_OCR
             Info.Add("W", this.Width);
             Info.Add("H", this.Height);
 
+
             return Info;
         }
         #endregion
+
     }
 }
